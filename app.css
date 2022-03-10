@@ -1,0 +1,27 @@
+body{
+background-color: antiquewhite;
+align-items: center;
+
+}
+.te{
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 30px;
+}
+.main{
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgray;
+    font-weight: bold;
+}
+.btn{
+    background-color: darkgray;
+    border-radius: 20px;
+    border: 0ch;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
